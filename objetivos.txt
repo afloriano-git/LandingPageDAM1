@@ -1,0 +1,6 @@
+1.- Validación de usuarios, creación de una base de datos para guardar los datos del usuario, junto a un registro y login, validando las contraseñas y creando coockies de acceso
+
+2.- Movimiento de un modelo 3D que siga la ubicación del raton permanentemente, además de animaciones según varios parametros como la posición de scroll o encima de donde este el puntero
+
+3.- Integración de video por fotograma para animaciones.
+
