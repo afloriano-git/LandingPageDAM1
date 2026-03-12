@@ -4,3 +4,6 @@
 
 3.- Integración de video por fotograma para animaciones.
 
+4.- Muro de pago.
+
+5.- Aplicación de un portal personalizado por usuario.
