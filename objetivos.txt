@@ -1,8 +1,8 @@
-1.- Validación de usuarios, creación de una base de datos para guardar los datos del usuario, junto a un registro y login, validando las contraseñas y creando coockies de acceso
+1.- Validación de usuarios, creación de una base de datos para guardar los datos del usuario, junto a un registro y login, validando las contraseñas.
 
-2.- Movimiento de un modelo 3D que siga la ubicación del raton permanentemente, además de animaciones según varios parametros como la posición de scroll o encima de donde este el puntero
+2.- Creacion y gestion de cookies de autentificacion para los usuarios.
 
-3.- Integración de video por fotograma para animaciones.
+3.- Publicacion de imagenes en el portal.
 
 4.- Muro de pago.
 
