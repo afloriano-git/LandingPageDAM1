@@ -27,9 +27,9 @@ function animate() {
 
     spotlight.style.background = `radial-gradient(
         circle at ${currentX}% ${currentY}%, 
-        #cba4efff 10%,
-        #a855f7 25%,
-        #8809ffff 20%,    
+        #FEEDD3 10%,
+        #F5A623 25%,
+        #C87B00 20%,    
         transparent 80%
     )`;
 
