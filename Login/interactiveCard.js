@@ -1,5 +1,6 @@
 const card = document.querySelector('#presentationFrame');
 const spotlight = document.querySelector('#spotlight');
+const filter = document.querySelector('#filter');
 
 let targetX = 10; let targetY = 90;
 let currentX = 90; let currentY = 10;
@@ -31,6 +32,7 @@ function animate() {
         #8809ffff 20%,    
         transparent 80%
     )`;
+
 
     requestAnimationFrame(animate);
 }
